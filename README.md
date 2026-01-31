@@ -508,8 +508,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Get Help
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/billyrdavis1985-bot/IRMB/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/billyrdavis1985-bot/IRMB/discussions)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/billyrdavis1985-bot/InfiteResilienceMatrisBridge/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/billyrdavis1985-bot/InfiteResilienceMatrisBridge/discussions)
 - 📧 **Email**: (Add if you want)
 
 ---
@@ -543,7 +543,7 @@ If you use IRMB in your research, please cite:
   author={Davis Jr., Billy R.},
   year={2026},
   publisher={GitHub},
-  url={https://github.com/billyrdavis1985-bot/IRMB},
+  url={https://github.com/billyrdavis1985-bot/InfiteResilienceMatrisBridge},
   note={Self-optimizing multi-agent coordination with adaptive learning}
 }
 ```
@@ -576,7 +576,7 @@ This project is built on the conviction that AI systems, when properly coordinat
 
 ---
 
-[![Star this repo](https://img.shields.io/github/stars/billyrdavis1985-bot/IRMB?style=social)](https://github.com/billyrdavis1985-bot/IRMB)
+[![Star this repo](https://img.shields.io/github/stars/billyrdavis1985-bot/InfiteResilienceMatrisBridge?style=social)](https://github.com/billyrdavis1985-bot/InfiteResilienceMatrisBridge)
 [![Follow](https://img.shields.io/github/followers/billyrdavis1985-bot?style=social)](https://github.com/billyrdavis1985-bot)
 
 **Phase 1: COMPLETE ✅ | Phase 2: IN DESIGN 🚧 | Phase 3: AWAITING 🔮**
