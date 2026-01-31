@@ -4,7 +4,7 @@
 
 # IRMB: Infinite Resilience Matrix Bridge
 
-(https://colab.research.google.com/github/billyrdavis1985-bot/InfiniteResilienceMatrixBridge/blob/main/InfiniteResilienceMatrixBridge.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/InfiniteResilienceMatrixBridge/blob/main/InfiniteResilienceMatrixBridge.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Status: Phase 1 Complete](https://img.shields.io/badge/status-phase%201%20complete-success.svg)](#-phase-1-achievements)
