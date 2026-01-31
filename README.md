@@ -1,6 +1,6 @@
 <div align="center">
 
-![IRMB Banner](Gemini_Generated_Image_sbfoq8sbfoq8sbfo)
+![IRMB Banner](https://raw.githubusercontent.com/billyrdavis1985-bot/InfiniteResilienceMatrixBridge/main/Gemini_Generated_Image_sbfoq8sbfoq8sbfo.webp)
 
 # IRMB: Infinite Resilience Matrix Bridge
 
