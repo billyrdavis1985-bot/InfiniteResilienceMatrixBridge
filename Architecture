@@ -1,0 +1,36 @@
+┌─────────────────────────────────────────────────────────────┐
+│                   ADAPTIVE CONTROLLER                        │
+│  • Learns optimal configs from 25+ missions                  │
+│  • Exploration: 20% → 12.1% (auto-decay)                     │
+│  • Tracks performance by domain × difficulty                 │
+└─────────────────────┬───────────────────────────────────────┘
+                      │
+        ┌─────────────┴─────────────┐
+        │    PATTERN LIBRARY        │
+        │   • 30+ ECI patterns      │
+        │   • Domain-specific       │
+        │   • Tier-aware            │
+        └─────────────┬─────────────┘
+                      │
+      ┌───────────────┼───────────────┐
+      │               │               │
+  ┌───▼────┐    ┌────▼────┐    ┌────▼─────┐
+  │ Claude │    │   GPT   │    │  Gemini  │
+  │Sonnet  │    │ 4o-mini │    │ 2.0 Flash│
+  │  4.5   │    │         │    │          │
+  └───┬────┘    └────┬────┘    └────┬─────┘
+      │              │              │
+      └──────────────┼──────────────┘
+                     │
+           ┌─────────▼─────────┐
+           │  DEBATE ENGINE    │
+           │  • Round 1: Indep │
+           │  • Round 2: Synth │
+           └─────────┬─────────┘
+                     │
+           ┌─────────▼─────────┐
+           │  TIER EVALUATION  │
+           │  • Success check  │
+           │  • Confidence     │
+           │  • Tier 4-6       │
+           └───────────────────┘
