@@ -6,9 +6,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Status: Phase 1 Complete](https://img.shields.io/badge/status-phase%201%20complete-success.svg)](https://github.com/billyrdavis1985-bot/IRMB)
-[![Multi-Agent AI](https://img.shields.io/badge/multi--agent-coordination-purple.svg)](https://github.com/billyrdavis1985-bot/IRMB)
-[![Adaptive Learning](https://img.shields.io/badge/adaptive-learning-orange.svg)](https://github.com/billyrdavis1985-bot/IRMB)
+![Status: Phase 1 Complete](https://img.shields.io/badge/status-phase%201%20complete-success.svg)
+![Multi-Agent AI](https://img.shields.io/badge/multi--agent-coordination-purple.svg)
+![Adaptive Learning](https://img.shields.io/badge/adaptive-learning-orange.svg)
 
 **Self-optimizing multi-agent coordination system achieving 100% success across physics, medicine, and philosophy reasoning tasks through adaptive learning and fault-tolerant architecture.**
 
